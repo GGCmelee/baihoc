@@ -1,0 +1,18 @@
+.tieude h1{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+.tieude h2{
+    font-size: 100px;
+    text-align: center;
+    color: white;
+}
+.menu li{
+    display: inline;
+    margin: 100px;
+    color: red;
+}
+.tieude{
+    background-image: url(./img1/logo.jpg);
+}
